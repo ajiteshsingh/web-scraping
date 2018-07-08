@@ -1,0 +1,526 @@
+{
+    "goa":{
+        
+        
+        "Reis Magos Fort":{
+            "Description":"This restored 16th-century fort offers sweeping river & sea views, along with a cultural center.",
+            "things to do": "Church of our lady of the Immaculate Conception|Fontainhas|Casino Royale Goa",
+            "food": "Viva Panjim,Venite,A Pastelaria",
+            "minimum_time": "1",
+            "day/night":"Afternoon",
+            "type_of_place":"Religious",
+            "type_of_traveller":"Family,Friends",
+            "rating": "4.4",
+            "cost":"50"
+            "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Reis_Magos_Fort_-_View_from_Mandovi_River.JPG/1280px-Reis_Magos_Fort_-_View_from_Mandovi_River.JPG"
+        },
+        
+        
+        "Agonda Beach":{
+            "Description":"Agonda Beach is a public beach located in Agonda village in Goa, India, about 9.2 kilometres (5.7 mi) north of Palolem Beach in South Goa",
+            "things to do": "Boat Trips|Swimming",
+            "food": "Silent Waves,Dinesh's Bar & Restaurant,H2O Agonda",
+            "hotels" : "..",
+            "minimum_time": "1",
+            "day/night":"Morning,Evening,Night",
+            "type_of_place":"Beach",
+            "type_of_traveller":"Family,Friends,Couple",
+            "rating": "4.5",
+            "cost":"0",
+            "image":"https://t-ec.bstatic.com/images/hotel/max1280x900/838/83899727.jpg"
+        },
+        
+        
+        "Mandrem Beach":{
+            "Description":"Relaxed, secluded beach accessed by small wooden bridge, with lounge chairs & covered cafes.",
+            "things to do": "Shanti Ayurvedic Massage Center|Banana Surf|Yoga",
+            "food": "La Plage,Cafe Nu,Thalassa",
+            "hotels" : "..",
+            "minimum_time": "1",
+            "day/night":"Morning,Evening,Night",
+            "type_of_place":"Beach",
+            "type_of_traveller":"Family,Friends,Couple",
+            "rating": "4.6",
+            "cost":"0",
+            "image":"https://a.travel-assets.com/findyours-php/viewfinder/images/res60/124000/124294-Mandrem-Beach.jpg"
+        },
+        
+        
+        "Dona Paula Beach":{
+            "Description":"Dona Paula is a former village, and tourist destination, in the suburbs of Panaji, Goa, India",
+            "things to do": "Windsurfing|Vainguinim Beach",
+            "food": "Goan Delicacy,Bay 15,The Goan Room",
+            "hotels" : "..",
+            "minimum_time": "1",
+            "day/night":"Morning,Evening,Night",
+            "type_of_place":"Beach",
+            "type_of_traveller":"Family,Friends,Couple",
+            "rating": "4.7",
+            "cost":"0",
+            "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRt1HZR-_gC_dfPwZ4DGgdRk2G5xiOYKbbR2aj0y0c-f2F7Hqt7VQ"
+        },
+        
+        
+        "Benaulim Beach":{
+            "Description":"Contemporary Benaulim is a popular seaside resort in South Goa district, renowned for its balmy weather, golden sands, and palm-fringed beaches. It also houses Goa's only Don Bosco Animation Center.",
+            "things to do": "Water Sports",
+            "food": "Fish 'N' Chips,Coco's Bar & Restaurant",
+            "hotels" : "..",
+            "minimum_time": "1",
+            "day/night":"Morning,Evening,Night",
+            "type_of_place":"Beach",
+            "type_of_traveller":"Family,Friends,Couple",
+            "rating": "4.3",
+            "cost":"0",
+            "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSo9sOnGYqhZuynadtbdRGlJhjsvPQsAt0WSWNdjtDK7X_-1-PWKA"
+        },
+        "Kali Tiger Reserve":{
+            "Description":"Kali Tiger Reserve is a protected area and tiger reserve. It is located in Uttara Kannada district, in Karnataka, India.",
+            "things to do": "Safari",
+            "food": "Ankita Restaurant,Gubbi Chicken Shop",
+            "hotels" : "..",
+            "minimum_time": "2.5",
+            "day/night":"Morning,Afternoon",
+            "type_of_place":"Wildlife",
+            "type_of_traveller":"Family,Friends",
+            "rating": "4.3",
+            "cost":"450",
+            "image":"https://imgstaticcontent.lbb.in/lbbnew/wp-content/uploads/sites/9/2017/08/05130656/05082017_kalitigerreserve02.jpg"
+        },
+        "Cabo de Rama":{
+            "Description":"Cabo de Rama is a fort in Goa, India. A view from 1886. Portuguese claimed the Cabo de Rama Fort after defeating the Raja (King) of Soonda and renovated it subsequently.",
+            "things to do": "Parasailing at Mobor",
+            "food": "Nautica,Grill Bar,Seagull Restaurant",
+            "hotels" : "..",
+            "minimum_time": "2.5",
+            "day/night":"Morning,Afternoon",
+            "type_of_place":"Historic",
+            "type_of_traveller":"Family,Friends",
+            "rating": "4.3",
+            "cost":"0",
+            "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTp3pmIHJMqY89Kj3rgCuyOjrH32dsudlqEPCDxcMJOtJhvY28S8Q"
+        },
+        "Fort Tiracol":{
+            "Description":"Fort Tiracol, sometimes known as Terekhol Fort, is a fort in Goa, India. Located on the northern tip of Goa at the mouth of the Tiracol River, Fort Tiracol is reached by a ferry from Querim, 42 km North of Panaji. ",
+            "things to do": "Experience Seeking",
+            "food": "The Lounge,Paradise Shack Restaurant",
+            "hotels" : "..",
+            "minimum_time": "1",
+            "day/night":"Morning,Afternoon",
+            "type_of_place":"Historic",
+            "type_of_traveller":"Family,Friends",
+            "rating": "3.9",
+            "cost":"0",
+            "image":"http://www.forttiracol.in/wp-content/uploads/2016/08/banner1.jpg"
+        },
+        "Ashwem":{
+            "Description":"The idyllic, rustic charm of the silver-golden sands and the enchanting flowing waters at Aswem Beach are an experience to cherish.",
+            "things to do": "Experience Seeking",
+            "food": "sea view bar & restaurant,Wisteria",
+            "hotels" : "..",
+            "minimum_time": "2",
+            "day/night":"Morning,Evening,Night",
+            "type_of_place":"Beach",
+            "type_of_traveller":"Family,Friends,Couple",
+            "rating": "4.6",
+            "cost":"0",
+            "image":"http://goa-tourism.com/GTDC-holidays/images/banner-ashwem-beach.jpg"
+        },
+        "Deltin Royale":{
+            "Description":"The Deltin brand promises an ideal mix of entertainment and hospitality, reflecting luxury and innovative lifestyles that match some of the best in the world",
+            "things to do": "Gambling",
+            "food": "Dine In",
+            "hotels" : "..",
+            "minimum_time": "3",
+            "day/night":"Night",
+            "type_of_place":"Casino",
+            "type_of_traveller":"Friends,Couple",
+            "rating": "4.3",
+            "cost":"3500",
+            "image":"https://d24oe5tmwdgz7x.cloudfront.net/event/4839/gallery/event_gallery_1458112682.jpg"
+        },
+        "Harvalem Caves":{
+            "Description":"Harvalem Caves Goa is from the 16th Century locally known as Pandava caves. They have long been thought to be of Buddhist origin",
+            "things to do": "Experience Seeking",
+            "food": "Royal Treat Ponda,Greenyard Restaurant",
+            "hotels" : "..",
+            "minimum_time": "1.5",
+            "day/night":"Afternoon,Evening",
+            "type_of_place":"Historic",
+            "type_of_traveller":"Family",
+            "rating": "3.9",
+            "cost":"0",
+            "image":"https://media-cdn.tripadvisor.com/media/photo-o/11/6a/c1/76/harvalem-caves.jpg"
+        },
+        "Majorda Beach":{
+            "Description":"One of the prettiest beaches of Goa is Majorda that sits on a wide 25 km stretch of sand, spread with roofed parasols and lapped by the warm Arabian Sea.",
+            "things to do": " Surfing, Skiing, Snorkeling, Paragliding, ",
+            "food": "Pentagon Restaurant,Mish-Mar",
+            "hotels" : "..",
+            "minimum_time": "2.5",
+            "day/night":"Morning,Evening,Night",
+            "type_of_place":"Beach",
+            "type_of_traveller":"Family,Friends,Couple",
+            "rating": "4.5",
+            "cost":"0",
+            "image":"https://www.mouthshut.com/product-reviews/Majorda-Beach-Goa-reviews-925752938"
+        },"Dudhsagar Falls":{
+			"description": "600m-high waterfall on the Mandovi River. You will be taking an off road jeep ride through the jungle and into the mountains! The ride takes from 45 mins to 1 hour, and then, it’s a ten minutes walk through dense tropical forest to the base of the waterfall (Rs 450 pp). Option two is for the more adventurous. A Jungle trek along an operational railway track! It’s perfectly safe if you take reasonable care. The trek takes 3-4 hours one way",
+            "things to do": "An adventurous bumpy Jeep ride leads you to these spectacular falls plunging into a pool where you can swim with giant carp.",
+            "food": "There are no eating options at the falls, carry your own food.",
+            "hotels" : "0",
+            "minimum_time": "4",
+            "day/night": "morning, afternoon",
+            "type_of_place": "waterfall, adventure",
+            "type_of_traveller": "family, couple, friends",
+            "rating": "4.5",
+            "cost": "500",
+			"image": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Incrediable_Dudhsagar_Falls_%28The_sea_of_Milk%29.jpg",
+			"opening_time": "11:00-19:00"
+        },
+        "Fort Aguada":{
+			"description": "1612 Portuguese fortress offering ocean views & an abandoned lighthouse erected in 1864.",
+            "things to do": "17th-century fortress & lighthouse",
+            "food": "Located off the Fort Aguada road, Bomra's is arguably one of the best Burmese restaurants in the country. ",
+            "hotels" : "0",
+            "minimum_time": "1",
+            "day/night": "morning, afternoon",
+            "type_of_place": "historic",
+            "type_of_traveller": "family, friends",
+            "rating": "4.2",
+            "cost": "0",
+			"image": "https://upload.wikimedia.org/wikipedia/commons/0/05/Kkm_fort_aguada_goa.jpg",
+			"opening_time": "09:30-18:00"
+        },"Museum of Christian Art":{
+			"description": "Art museum in a former convent showcasing Christian works from Goa, including paintings & sculpture.",
+            "things to do": "Christian artwork in a onetime convent",
+            "food": "0",
+            "hotels" : "0",
+            "minimum_time": "2",
+            "day/night": "morning, afternoon",
+            "type_of_place": "historic",
+            "type_of_traveller": "family, couple, friends",
+            "rating": "4.2",
+            "cost": "5",
+			"image": "https://manthandiary.files.wordpress.com/2014/06/museum-of-christian-art-goa.jpg",
+			"opening_time": "09:00-17:00"
+        },
+        "Bondla Wildlife Sanctuary":{
+			"description": "The sanctuary is covered with moist deciduous forest and evergreen vegetation all over. ",
+            "things to do": "You can take jeep safari to watch wildlife species | Visit botanical gardens to see bamboo plantation, medical herbs and trees.",
+            "food": "Aj’s café& takeout, Masala ,Pan aroma, Antruz mahal ,Hotel kinara, Hotel menino Restaurant, Saligao stories are few recommended food joints where visitors and tourist can satisfy their cravings. These places serve world famous Goan seafood’s to Italian, India &Malabar cuisines. Packed food items and snacks are available to carry along if you are travelling via road. Although there is Bondla restaurant inside the sanctuary which itself provides simple and tasty food.",
+            "hotels" : "0",
+            "minimum_time": "2",
+            "day/night": "morning, afternoon",
+            "type_of_place": "nature",
+            "type_of_traveller": "family, couple, friends",
+            "rating": "4",
+            "cost": "5",
+			"image": "https://upload.wikimedia.org/wikipedia/commons/d/de/Bondla_Wildlife_Sanctuary.jpg",
+			"opening_time": "09:00-17:00 except Thursday"
+        },
+        "Ancestral Goa":{
+			"description": "At this museum, there are a wide range of places to see and various interesting activities to do. The art gallery at the museum presents visitors with the works of local artists as well of those with national fame. The handicraft center here offers you with various kinds of Goan artifacts, which do make for a perfect souvenirs to take back home.",
+            "things to do": "Big Foot dance floor | Check out the sculpture of Sant Mirabai | Check out the art gallery at the museum",
+            "food": "0",
+            "hotels" : "0",
+            "minimum_time": "2",
+            "day/night": "morning, afternoon",
+            "type_of_place": "historic",
+            "type_of_traveller": "family, friends",
+            "rating": "3.9",
+            "cost": "50",
+			"image": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Big_Foot_Loutolim_-_Ancestral_Goa%282%29_%287837428304%29.jpg",
+			"opening_time": "09:00–18:00"
+        },
+        "Goa Science Centre":{
+			"description": "Low-key educational center offering interactive displays on scientific subjects, plus a planetarium.",
+            "things to do": "Kids and families will enjoy the Goa Science Centre & Planetarium with an outdoor park, hands-on interactive displays, 3-D movies and a planetarium.",
+            "food": "0",
+            "hotels" : "0",
+            "minimum_time": "1.5",
+            "day/night": "morning, afternoon",
+            "type_of_place":  "historic",
+            "type_of_traveller": "family, friends",
+            "rating": "4.1",
+            "cost": "15",
+			"images": "https://en.wikipedia.org/wiki/Goa_Science_Centre#/media/File:Entrance_to_Goa_Science_Center.jpg",
+			"opening_time": "10:00-19:00"
+        },
+        "Goa Chitra Museum":{
+			"description": "This ethnographic museum on an organic farm includes displays of ancient agrarian tools & artifacts.",
+            "things to do": "Exhibits of ancient farming tools",
+            "food": "0",
+            "hotels" : "0",
+            "minimum_time": "1",
+            "day/night": "morning, afternoon",
+            "type_of_place": "historic",
+            "type_of_traveller": "family, friends",
+            "rating": "3.9",
+            "cost": "100",
+			"images": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Goa_Chitra-_Museum.JPG",
+			"opening_time": "09:00–18:00"
+        },"Mahadev temple":{
+            "things to do": "12th century temple of Shiva, carved from single stone. Oldest temple of Goa. Well known for architecture. ",
+            "food": "Tea stalls and light snacks",
+            "minimum_time": "0.5",
+            "day/night":"morning, evening",
+            "type_of_place":"historic, religious",
+            "type_of_traveller":"family, friends",
+            "rating": "4.6",
+            "cost":"0",
+            "image":"https://kevinstandagephotography.files.wordpress.com/2015/04/ksp_9743.jpg"
+        },
+        "Cavelossim beach":{
+            "things to do": "White sand beach surrounded by paddy fields. Water sports, dolphin spotting, ayurvedic massages, night life.",
+            "food": "crab, prawns, kingfish",
+            "minimum_time": "1",
+            "day/night":"morning, evening, night",
+            "type_of_place":"beach",
+            "type_of_traveller":"family, friends, couple",
+            "rating": "3.5",
+            "cost":"0",
+            "image": "http://www.remotetraveler.com/wp-content/gallery/goa-beaches/Beach-shacks-at-Cavelossim-beach-in-South-Goa.jpg"
+        },
+            "Patnem Beach":{
+            "things to do": "yoga retreat and shopping.",
+            "food": "seafood at the shacks",
+            "minimum_time": "1",
+            "day/night":"morning, evening",
+            "type_of_place":"beach",
+            "type_of_traveller":"family, friends, couple",
+            "rating": "3.8",
+            "cost":"0",
+            "image":"https://crazygoangirl.files.wordpress.com/2012/03/dsc_0576_edited_2.jpg"
+        },
+        "Harvalem Waterfall":{
+            "things to do": "roaring water falls from a height of 24 feet upon a lake of serene, azure water, will leave you enchanted by this different and unique beauty of Goa.",
+            "minimum_time": "3",
+            "day/night":"morning, afternoon",
+            "type_of_place":"nature",
+            "type_of_traveller":"friends, couple",
+            "rating": "4.2",
+            "cost":"0",
+            "image":"http://robztraveldiary.in/wp-content/uploads/2017/03/DSC_9484-3.jpg"
+        },
+        "Casino Pride":{
+            "things to do": "Fun games and entertainment",
+            "minimum_time":"4",
+            "day/night":"night",
+            "type_of_place":"gambling",
+            "type_of_traveller":"friends, couple",
+            "rating": "3.3",
+            "cost":"1500",
+            "image":"https://edge.ixigo.com/ixi-api/img/5315c228e4b0894ef98f670b_560x560.jpg"
+        },
+        "Cotigao Wildlife Sanctuary":{
+            "things to do": "wildlife refuge and reserve.",
+            "minimum_time": "4",
+            "day/night":"morning, afternoon",
+            "type_of_place":"wildlife, nature",
+            "type_of_traveller":"family, friends, couple",
+            "rating": "4.4",
+            "cost":"5",
+            "image": "https://afreentravelbug.files.wordpress.com/2014/04/wildlife.jpg",
+            "opening_time":"09:00"
+        },
+        "Vagator Beach":{
+            "things to do": "Sunset bar available. Well maintained beach with occasional water sports",
+            "food": "seafood in the shacks",
+            "minimum_time": "2",
+            "day/night":"morning, evening",
+            "type_of_place":"beach",
+            "type_of_traveller":"family, friends, couple",
+            "rating": "5",
+            "cost":"0",
+            "image": "http://famousplacesinindia.in/Beaches/Images/Vagator-Beach/Vagator-Beach-1.jpg"
+        },
+        "Netravali Wildlife Sanctuary":{
+            "things to do": "Many rivers & streams criss-cross this large protected area full of native flora & fauna.",
+            "minimum_time": "3",
+            "day/night":"morning, afternoon",
+            "type_of_place":"wildlife, nature",
+            "type_of_traveller":"family, friends",
+            "rating": "4.5",
+            "cost":"5",
+            "image":"https://media-cdn.tripadvisor.com/media/photo-s/0d/99/68/41/img-20161101-100252-largejpg.jpg"
+        },
+        "Ramnathi Temple":{
+            "things to do": "The temple of Ramnathi is located in Ramnathim, Bandivade in Goa. This temple belongs to the Gowda Saraswat Brahmins (G.S.B) community",
+            "minimum_time": "0.5",
+            "day/night":"morning, afternoon, evening",
+            "type_of_place":"historic, religious",
+            "type_of_traveller":"family",
+            "rating": "2.9",
+            "cost":"0",
+            "image":"https://s-media-cache-ak0.pinimg.com/originals/19/fe/e2/19fee2a6e134040073e08817e2b033ae.jpg"
+        },
+        "Butterfly beach":{
+            "things to do": "Enjoy sprawling views of untouched coastlines, away from the maddening crowds of Goa.Being completely isolated, the place has no shacks or guards. |It is advisable to carry sufficient water and food supply to last the duration of your trip. Also, maintaining caution is a necessity.",
+            "minimum_time": "2",
+            "day/night":"morning, evening",
+            "type_of_place":"beach",
+            "type_of_traveller":"friends, couple",
+            "rating": "3.6",
+            "cost":"0",
+            "image":"https://wearefromlatvia.com/wp-content/uploads/2016/02/Butterfly-beach-Goa-India.jpg"
+       },
+        "Miramar beach":{
+            "things to do": "The golden beach that features an array of palm trees is one of the most popular beaches in the state.",
+            "minimum_time": "1",
+            "day/night":"morning, evening",
+            "type_of_place":"beach",
+            "type_of_traveller":"friends",
+            "rating": "3.8",
+            "cost":"0",
+            "image":"https://edge.ixigo.com/img/miramar-beach-images-photos-50c974bae4b0edaa0b270171.jpg"
+        },
+        "Arambol beach":{
+            "things to do": "laidback atmosphere and live music scene.",
+            "food": "Seafood at the shacks",
+            "minimum_time": "1",
+            "day/night":"morning, evening",
+            "type_of_place":"beach",
+            "type_of_traveller":"family, friends, couple",
+            "rating": "4.1",
+            "cost":"0",
+            "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Arambol_beach_2009.jpg/1200px-Arambol_beach_2009.jpg"
+        },
+       "Utorda beach":{
+            "things to do": "...",
+            "food": "..",
+            "minimum_time": "2",
+            "day/night":"morning, evening",
+            "type_of_place":"beach",
+            "type_of_traveller":"family, friends, couple",
+            "rating": "4.3",
+            "cost":"0",
+            "image":"http://static.panoramio.com/photos/large/92397680.jpg"
+        }
+        
+    }
+
+        "Wax World Museum":{
+			"description": "Small museum featuring simple wax likenesses of mostly Indian historical figures & celebrities.",
+            "things to do": "Basic wax statues of famous people",
+            "food": "0",
+            "hotels" : "0",
+            "minimum_time": "2",
+            "day/night": "morning, afternoon",
+            "type_of_place": "historic",
+            "type_of_traveller": "family, friends",
+            "rating": "3",
+            "cost": "30",
+			"images": "https://www.trawell.in/admin/images/upload/242260307Wax_Museum_OOty_Main.jpg",
+			"opening_time": "09:30-19:30"
+        },
+        "Church of St Cajetan":{
+            "description": "This stately 17th-century Catholic church features a facade resembling St. Peter's Basilica in Rome.",
+            "things to do": "Architecturally notable Catholic church",
+            "food": "0",
+            "hotels" : "0",
+            "minimum_time": "1",
+            "day/night": "morning, afternoon",
+            "type_of_place": "historic, religious",
+            "type_of_traveller": "family, friends, couple",
+            "rating": "4.6",
+            "cost": "0",
+			"images": "https://upload.wikimedia.org/wikipedia/commons/0/08/Old_Goa%2CChapel_of_St.Cajetan.jpg",
+			"opening_time": "09:00-19:00"
+        },
+        "Kerkar Art Complex":{
+            "description": "This soothing art gallery showcases the colourful paintings, photographs and sculptures of local artist Dr Subodh Kerkar",
+            "things to do": "Art, art museum, and museum",
+            "food": "0",
+            "hotels" : "0",
+            "minimum_time": "2",
+            "day/night": "morning, afternoon, evening",
+            "type_of_place": "historic, religious",
+            "type_of_traveller": "family, friends, couple",
+            "rating": "3.5",
+            "cost": "0",
+			"images": "http://images.goroadtrip.com/destinations/kerkar-art-complex-3591/Kerkar-Art-Gallery-%2816%29_original_watermark.jpg",
+			"opening_time": "10.00-23.00"
+        },
+        "Basilica of Bom Jesus":{
+			"description": "Completed in 1605, this Baroque Catholic church contains the tomb of Saint Francis Xavier.",
+            "things to do": "Visit the Portuguese built Mount Carmel Chapel in Ward 8 ",
+            "food": "0",
+            "hotels" : "0",
+            "minimum_time": "1",
+            "day/night": "morning, afternoon",
+            "type_of_place": "historic, religious",
+            "type_of_traveller": "family, friends, couple",
+            "rating": "4.4",
+            "cost": "0",
+			"images": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Basilica_do_Bom_Jesus.jpg",
+			"opening_time": "9:00-18:30 except sunday"
+        },
+        "Mollem National Park":{
+            "description": "Bhagwan Mahaveer Sanctuary and Mollem National Park is a 240 square kilometres protected area located in the Western Ghats of South India, in Sanguem taluk, Goa along the eastern border with",
+            "things to do": "Check out observation tower(just a short distance from the Mollem check-post), the Dudhsagar waterfalls (in the south-east) | Visit sunset place(off the highway, closer to the Karnataka side) and Devil’s Canyon",
+            "food": "0",
+            "hotels" : "0",
+            "minimum_time": "2",
+            "day/night": "morning, afternoon",
+            "type_of_place": "nature",
+            "type_of_traveller": "family, friends, couple",
+            "rating": "4.2",
+            "cost": "20",
+			"images": "https://upload.wikimedia.org/wikipedia/commons/c/cc/..._Mollem_National_Park_%285661050155%29.jpg",
+			"opening_time": "8:00-17:00"
+        },
+      
+    }
+        "Chapora Fort":{
+            "description":"15 minutes of climbing then you reach on fort. Paid parking is available near fort. Not so big fort like other forts only deteriorated walls are there but view in evening is amazing. A must visit if you are going first time in Goa.",
+            "things to do": "Ancient Portuguese fort with sea views | Nice sea view from 100 feet above ground level, Sunset point",
+            "food": "",
+            "hotels" : "",
+            "minimum_time": "2",
+            "day/night":"evening",
+            "type_of_place":"historic",
+            "type_of_traveller":"family,friends,couple",
+            "rating": "4.2",
+            "cost":"0",
+            "image":"https://www.trawell.in/admin/images/upload/12190533Chapora_Fort_Main.jpg"
+        },
+        "Se Cathedral":{
+            "description":"Roman Catholic place of worship built by Portuguese colonialists and still hosting regular services. Beautifully landscaped between two churches stand the Se Cathedral de Santa Catarina. This is a cathedral of Latin Rites. This church is a good example for typical Portuguese architecture."
+            "things to do": "Portuguese-built 16th-century cathedral | Beautiful place to click pictures outside as well as inside. but taking photographs of a person is not allowed inside the cathedral. You can take pictures of architecture inside",
+            "food": "",
+            "hotels" : "",
+            "minimum_time": "1",
+            "day/night":"morning, afternoon,evening",
+            "type_of_place":"church",
+            "type_of_traveller":"family,friends",
+            "rating": "4.3",
+            "cost":"0"
+        },"Shanta Durga Temple":{
+            "description":"Elegant Hindu temple built in the early 1730s & dedicated to the goddess Shantadurga."
+            "things to do": "Stately temple honoring Shantadurga",
+            "food": "",
+            "hotels" : "",
+            "minimum_time": "1",
+            "day/night":"morning,afternoon,evening",
+            "type_of_place":"religious",
+            "type_of_traveller":"family,friends",
+            "rating": "4.5",
+            "cost":"0",
+            "image": "https://media-cdn.tripadvisor.com/media/photo-s/0b/82/78/fc/shantadurga-temple-kavlem.jpg"
+        },
+        "Calangute Beach":{
+            "description": "This most famous and crowded beach in Goa. Lots of water sport activity's are available. Nice and clean well maintained. Plenty of shacks, free sun beds to relax when food or drink is ordered. It is a must visit place in Goa.",
+            "things to do": "Beach, jet ski, and parasailing",
+            "food": "",
+            "hotels" : "",
+            "minimum_time": "6",
+            "day/night":"morning,evening",
+            "type_of_place":"beach",
+            "type_of_traveller":"family,friends,couple",
+            "rating": "4",
+            "cost":"0"
+        }
+        
+        
+}
